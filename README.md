@@ -1,4 +1,4 @@
-# 课程预告：机器学习在管理研究中的应用
+# 机器学习在管理研究中的应用
 
 
 >时间：春季学期2-13周星期二下午5-7节
@@ -59,7 +59,7 @@
 Machine learning versus traditional programming [link](https://www.oreilly.com/library/view/deep-learning-with/9781788624336/a7a045c6-b0e2-437c-892d-1e61c11446bf.xhtml)
 
 
-### 内容7-9：决策树与集成学习
+### 内容7-9：决策树及其集成
 
 下面是大纲：
 

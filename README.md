@@ -54,11 +54,6 @@
 * 吴建祖（8-10周，内容7-9）
 * 曲宗希（11-13周，内容10-12）
 
-![ml](https://www.oreilly.com/library/view/deep-learning-with/9781788624336/assets/27c1671a-61d3-46e1-ac66-e3dbd5683ab2.png)
-
-Machine learning versus traditional programming [link](https://www.oreilly.com/library/view/deep-learning-with/9781788624336/a7a045c6-b0e2-437c-892d-1e61c11446bf.xhtml)
-
-
 ### 内容7-9：决策树及其集成
 
 下面是大纲：
@@ -86,5 +81,3 @@ Machine learning versus traditional programming [link](https://www.oreilly.com/l
    2.4 GBDT算法 
    
    2.5 集成学习应用案例
-
-![dt](https://lh4.googleusercontent.com/v9UQUwaQTAXVH90b-Ugyw2_61_uErfYvTBtG-RNRNB_eHUFq9AmAN_2IOdfOETnbXImnQVN-wPC7_YzDgf7urCeyhyx5UZmuSwV8BVsV8VnHxl1KtgpuxDifJ4pLE23ooYXLlnc)
